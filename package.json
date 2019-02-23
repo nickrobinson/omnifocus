@@ -1,6 +1,6 @@
 {
   "name": "osa-omnifocus",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Node API for interacting with OmniFocus",
   "main": "index.js",
   "repository": "git@github.com:nickrobinson/osa-omnifocus.git",
