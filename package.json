@@ -1,0 +1,13 @@
+{
+  "name": "osa-omnifocus",
+  "version": "1.0.0",
+  "description": "Node API for interacting with OmniFocus",
+  "main": "index.js",
+  "repository": "git@github.com:nickrobinson/osa-omnifocus.git",
+  "author": "Nick Robinson <nrobinson13@gmail.com>",
+  "license": "GPLv3",
+  "dependencies": {
+    "eslint-config-airbnb-base": "^13.1.0",
+    "osa2": "^0.2.3"
+  }
+}
